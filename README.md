@@ -6,7 +6,7 @@
 
 **Professional Experience**
 
-	Apart from learning I am also a developer at i2p company.In my current role, I contribute to the development of innovative software solutions that meet the evolving needs of our clients. I actively participate in the entire software development life cycle.
+		Apart from learning I am also a developer at i2p company.In my current role, I contribute to the development of innovative software solutions that meet the evolving needs of our clients. I actively participate in the entire software development life cycle.
 
 **Technologies I am working with**
 	
