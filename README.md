@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 , Ali Nawaz Here
 
-<!--
-**alinawaz160/alinawaz160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Educational Career**
+	
+		I have successfully completed my intermediate education journey at Islamia College Sukkur Pakistan. I am currently pursuing my undergraduate degree in Software Engineering, which is a dynamic and rapidly evolving field at the intersection of technology and innovation.
 
-Here are some ideas to get you started:
+**Professional Experience**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	Apart from learning I am also a developer at i2p company.In my current role, I contribute to the development of innovative software solutions that meet the evolving needs of our clients. I actively participate in the entire software development life cycle.
+
+**Technologies I am working with**
+	
+	1.Javascript Frameworks
+		Node
+		React
+	2.Java
+		Spring Boot MicroServices
+		Window Applications
+	3.Python Application
