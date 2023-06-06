@@ -11,13 +11,15 @@
 **Technologies I am working with**
 	
 	1.Javascript
-	
 		Node JS
 		React JS
+		Knex
+		
 	2.Java
 		Spring Boot MicroServices
 		Window Applications
-	3.Python Application
+	3.Python
+		Single Page Application
 
 **Development IDEs**
 	
@@ -36,5 +38,5 @@
 
 	JDK 1.8, 17
 	Databases
-         PostgreSQL Server
-         Mongodb Server for NoSQL Document based Projects
+        PostgreSQL Server
+        Mongodb Server for NoSQL Document based Projects
