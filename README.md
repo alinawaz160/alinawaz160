@@ -38,8 +38,9 @@
 
 **Tools**
 
-	JDK 1.8, 17
-	Databases
- 	MySQL Server
-        PostgreSQL Server
-        Mongodb Server for NoSQL Document based Projects
+JDK 
+ 		1.8, 17
+Databases
+	 	1.MySQL Server
+	        2.PostgreSQL Server
+	        3.Mongodb Server for NoSQL Document based Projects
