@@ -40,5 +40,6 @@
 
 	JDK 1.8, 17
 	Databases
+ 	MySQL Server
         PostgreSQL Server
         Mongodb Server for NoSQL Document based Projects
