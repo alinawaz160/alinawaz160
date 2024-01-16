@@ -10,16 +10,18 @@
 
 **Technologies I am working with**
 	
-	1.Javascript
-		Node JS
-		React JS
-		Knex
+	1.Javascript / Typescript
+				Node JS
+				React JS
+				Knex
+		  		Angular
 		
 	2.Java
-		Spring Boot MicroServices
-		Window Applications
-	3.Python
-		Single Page Application
+				Spring Boot MicroServices
+				Window Applications
+
+  	3.PHP
+   				Laravel
 
 **Development IDEs**
 	
