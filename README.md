@@ -2,7 +2,7 @@
 
 **Educational Career**
 	
-		I have successfully completed my intermediate education journey at Islamia College Sukkur Pakistan. I am currently pursuing my undergraduate degree in Software Engineering, which is a dynamic and rapidly evolving field at the intersection of technology and innovation.
+		I have successfully completed my graduation journey at Mehran University Of Engineering And Technology Jamshoro Pakistan in Sofware Engineering.
 
 **Professional Experience**
 
